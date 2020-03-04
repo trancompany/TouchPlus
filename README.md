@@ -6,7 +6,7 @@ This includes:
 2. Adruino Code for TouchPlus.
 3. Schematic and PCB for TouchPlus.
 4. Real pictures of PCB and Center Box
-5. All documents: Proposal, Financal Plan, Working Plan, TOAs, Bids, ...
+5. All documents: Proposal, Financal Plan, Working Plan, TORs, Bids, ...
 
 Due to this project is finished for long time I need time to collect data, so i'll update step-by-step.
 
